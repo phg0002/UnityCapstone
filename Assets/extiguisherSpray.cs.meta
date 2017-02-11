@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a30d92cec3f0d554aa7a1fc7419acf54
+timeCreated: 1486845300
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spray: {fileID: 198422150728838266, guid: 41c2b3a87c2f47d40a3cdfc83c00589b, type: 2}
+  - sprayOrigin: {fileID: 1404160610635256, guid: ef3ab471c8f32944cbe7e8200cce0cad,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
